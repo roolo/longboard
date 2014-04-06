@@ -1380,7 +1380,7 @@
       "_ride": "Ladronka - Repy",
       "type": "Feature",
       "properties": {
-        "stroke": "green",
+        "stroke": "blue",
         "title": "Ladronka - Repy"
       },
       "geometry": {
