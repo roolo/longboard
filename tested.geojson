@@ -1,8 +1,8 @@
 {
-  "_ride": "Ladronka",
   "type": "FeatureCollection",
   "features": [
     {
+      "_ride": "Ladronka",
       "type": "Feature",
       "properties": {
         "stroke": "green",
